@@ -1,0 +1,20 @@
+{
+  "name": "cookie-monster",
+  "version": "1.0.0",
+  "description": "Steals cookies via HTTP GET or POST.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "cookie-monster",
+    "heroku"
+  ],
+  "author": "ivan-teong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "engines": {
+    "node": "4.4.7"
+  }
+}
