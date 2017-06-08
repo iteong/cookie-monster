@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Steals cookies via HTTP GET or POST.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "cookie-monster",
     "heroku"
@@ -12,6 +11,7 @@
   "author": "ivan-teong",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3"
   },
   "engines": {
